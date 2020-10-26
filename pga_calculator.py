@@ -1,4 +1,5 @@
-from tkinter import (Tk, Entry, Button, Label, messagebox, FALSE, DISABLED)
+from tkinter import *
+from tkinter import messagebox
 
 window = Tk()
 window.title('Calculadora de PGA')
